@@ -99,8 +99,8 @@ A collection of projects, experiments, and ideas that I thought were worth build
 
 <p align="center">
   <a href="https://www.buildwithali.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=58A6FF" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
+  <a href="https://www.linkedin.com/in/aliharam"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+  <a href="mailto:aliharam2002@outlook.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" />
