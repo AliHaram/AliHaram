@@ -84,10 +84,6 @@ A collection of projects, experiments, and ideas that I thought were worth build
 
 ### Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AliHaram&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaram&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHaram&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=ffffff&area=true" width="98%" />
